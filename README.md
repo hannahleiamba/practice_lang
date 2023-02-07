@@ -7,8 +7,3 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ## How to Install
 - Step 1:Download the zip file or use git clone
-
-## Social Media
-- Hannah Lei (FB)
-
-Commit #1: hi!
